@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_getName" value="name:id;datatype:int,name:name;datatype:string,name:email;datatype:string,name:rating;datatype:int,name:message;datatype:blob" />
+</info>
